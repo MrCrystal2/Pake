@@ -4,13 +4,13 @@
 
 W lewej kolumnie kliknij Build App with Pake CLI, a potem po prawej Run workflow. Wypełnij dokładnie tak:
 
-Pole 	Co wpisać 	Notes
-App URL	<adres>	Pełny URL
-App Name	<Nazwa>	Bez spacji
-App Icon	Empty	Pobierze favicon 
-Platform 	MacOS-latest	Dla maca
-Show menu	True	Pasek menu górny 
-Show title bar	True	Zarządzanie oknem 
+Pole Co wpisać Notes
+App URL <adres> Pełny URL
+App Name <Nazwa> Bez spacji
+App Icon Empty Pobierze favicon
+Platform MacOS-latest Dla maca
+Show menu True Pasek menu górny
+Show title bar True Zarządzanie oknem
 
 Kliknij zielone Run workflow.
 
